@@ -54,7 +54,7 @@ This project implements a morphosyntactic tagger for Spanish using a Hidden Mark
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/morphosyntactic-tagger-hmm.git](https://github.com/YOUR_USERNAME/morphosyntactic-tagger-hmm.git)
+    git clone [https://github.com/YOUR_USERNAME/morphosyntactic-tagger-hmm.git](https://github.com/hectorcaraucan/morphosyntactic-tagger-hmm.git)
     ```
 2.  Install the required dependencies:
     ```bash
@@ -63,11 +63,11 @@ This project implements a morphosyntactic tagger for Spanish using a Hidden Mark
 
 ## Usage
 
-The main logic of the project is in the `morphosyntactic_tagger.ipynb` notebook. [cite_start]You can open it and run the cells to see the tagger in action. [cite: 4]
+The main logic of the project is in the `morphosyntactic_tagger.ipynb` notebook. You can open it and run the cells to see the tagger in action.
 
 The notebook is divided into the following parts:
 
-1.  [cite_start]**Loading the corpus**: The `Corpus-tagged.txt` file is loaded and parsed. [cite: 3, 4]
+1.  **Loading the corpus**: The `Corpus-tagged.txt` file is loaded and parsed. 
 2.  **Building the HMM**:
     * Calculation of emission probabilities:  `P(word|tag)`.
     * Calculation of transition probabilities: `P(tag_i|tag_{i-1})`.
