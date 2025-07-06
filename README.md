@@ -35,7 +35,6 @@ The notebook is divided into the following parts:
 4.  **Tagging a new sentence**: An example of how to use the tagger to tag a new sentence.
 
 ## Project Structure
-README.md
 
 # Morphosyntactic Tagger with Hidden Markov Models (HMM)
 
