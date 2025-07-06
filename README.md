@@ -54,7 +54,7 @@ This project implements a morphosyntactic tagger for Spanish using a Hidden Mark
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/morphosyntactic-tagger-hmm.git](https://github.com/hectorcaraucan/morphosyntactic-tagger-hmm.git)
+    git clone [https://github.com/hectorcaraucan/morphosyntactic-tagger-hmm.git](https://github.com/hectorcaraucan/morphosyntactic-tagger-hmm.git)
     ```
 2.  Install the required dependencies:
     ```bash
